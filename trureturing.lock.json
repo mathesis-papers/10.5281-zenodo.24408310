@@ -1,0 +1,33 @@
+{
+  "schema": "trureturing-books.lock.v1",
+  "repo": "the-omega-institute/trureturing",
+  "branch": "dev",
+  "commit": "8a24ea4e79de962725aab9d9b49cc605fcc211d8",
+  "pinned_at": "2026-11-08T12:32:04Z",
+  "declarations": {
+    "D5/S1/Recurrence/Algebraic/HannaA181070Integrality.result": {
+      "module": "D5/S1/Recurrence/Algebraic/HannaA181070Integrality",
+      "name": "D5.S1.Recurrence.Algebraic.HannaA181070Integrality.result",
+      "kind": "theorem",
+      "statement_id": "sha256:3092db66acc6fd1d6f4354d8aefb1d52c3e934f2a8cbf9e86d1bed30e823810b",
+      "line": 393,
+      "signature": "theorem result : claim"
+    },
+    "D5/S1/Recurrence/Algebraic/HannaA181074Integrality.result": {
+      "module": "D5/S1/Recurrence/Algebraic/HannaA181074Integrality",
+      "name": "D5.S1.Recurrence.Algebraic.HannaA181074Integrality.result",
+      "kind": "theorem",
+      "statement_id": "sha256:30c44c73ea8e80d7b0929f3f5cbf273e15a602fd590c2636632f5fccaee7bc48",
+      "line": 104,
+      "signature": "theorem result : claim"
+    },
+    "D5/S1/Recurrence/Algebraic/HannaA181080Integrality.result": {
+      "module": "D5/S1/Recurrence/Algebraic/HannaA181080Integrality",
+      "name": "D5.S1.Recurrence.Algebraic.HannaA181080Integrality.result",
+      "kind": "theorem",
+      "statement_id": "sha256:db4db502c0580964908869a29d36da04229434fe655a77bd278bbfb53c29ddbc",
+      "line": 88,
+      "signature": "theorem result : claim"
+    }
+  }
+}

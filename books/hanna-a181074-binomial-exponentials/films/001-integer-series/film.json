@@ -1,0 +1,27 @@
+{
+  "duration": "0:51",
+  "id": "001-integer-series",
+  "lean": [],
+  "narration": {
+    "engine": "Kokoro-82M v1.0 (onnx)",
+    "language": "en",
+    "voice": "af_heart"
+  },
+  "outputs": {
+    "cover": "hanna-a181074-binomial-exponentials_001_cover.jpg",
+    "narrated_720p": "hanna-a181074-binomial-exponentials_001_720p_narrated.mp4"
+  },
+  "publication_basis": "pinned",
+  "released": "2026-11-23",
+  "resolution": "1280x720@30",
+  "style": "trureturing cyberpunk · deterministic canvas",
+  "subject": "https://github.com/the-omega-institute/trureturing",
+  "subtitles": [
+    "zh",
+    "en"
+  ],
+  "summary": "Work out the cubic coefficient of Hanna's A181074, then see why an Euler product accounts for every degree.",
+  "summary_zh": "先算出 Hanna 数列的三次项，再看欧拉乘积怎样解释所有次数的整数性。",
+  "title": "When fractions turn into integers",
+  "title_zh": "分数怎样变成整数"
+}

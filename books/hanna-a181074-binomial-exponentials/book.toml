@@ -1,0 +1,17 @@
+[book]
+version = "3"
+authors = ["Haobo Ma", "Wenlin Zhang"]
+license = "CC-BY-4.0"
+editions = ["zh", "en"]
+date = "2026-11-22"
+[book.title]
+zh = "Proving Hanna's conjecture in OEIS A181074, Comments (2 October 2010): extensions of Moree (2003) and Gossow (2024)"
+en = "Proving Hanna's conjecture in OEIS A181074, Comments (2 October 2010): extensions of Moree (2003) and Gossow (2024)"
+[outputs]
+html = true
+pdf = ["academic"]
+epub = true
+[mathesis]
+work = "hanna-a181074-binomial-exponentials"
+version = 3
+source_title = "Proving Hanna's conjecture in OEIS A181074, Comments (2 October 2010): extensions of Moree (2003) and Gossow (2024)"

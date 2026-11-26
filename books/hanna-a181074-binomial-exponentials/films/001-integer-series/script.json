@@ -1,0 +1,24 @@
+{
+  "voice": "af_heart",
+  "speed": 0.94,
+  "say": {},
+  "music": {"bpm": 80, "progression": "a-minor"},
+  "scenes": [
+    {"id": "open", "name": "THE PUZZLE", "lead": 1.0, "tail": 0.7, "lines": [
+      ["Hanna's sequence begins one, one, two, five. But its formula is full of fractions.", "Hanna 数列以 1、1、2、5 开头，公式里却满是分数。"],
+      ["Does every coefficient turn out to be an integer?", "每一项最后都会是整数吗？"]
+    ]},
+    {"id": "cubic", "name": "ONE COEFFICIENT", "lead": 0.5, "tail": 0.8, "lines": [
+      ["To reach degree three, take the three pairs whose indices add to three.", "要得到三次项，就取坐标之和等于 3 的三对数。"],
+      ["Their contributions to the logarithm are one, two, and one third.", "它们对对数级数的贡献是 1、2 和三分之一。"],
+      ["After exponentiating, ten thirds plus three halves plus one sixth is five.", "取指数以后，三分之十加二分之三再加六分之一，正好等于 5。"]
+    ]},
+    {"id": "factor", "name": "EVERY DEGREE", "lead": 0.5, "tail": 0.8, "lines": [
+      ["A product of geometric series has integer coefficients without cancellation.", "几何级数的乘积不需要约分，系数自然都是整数。"],
+      ["Prime by prime, the paper pairs entries on scaled diagonals. Their congruences make the exponents of the Euler product integers.", "论文对每个素数，把缩放前后的斜线项配对；同余保证欧拉乘积的指数都是整数。"]
+    ]},
+    {"id": "close", "name": "THE PAYOFF", "lead": 0.4, "tail": 2.0, "lines": [
+      ["The product explains every degree at once. But lower the original power by one, and a fraction already appears in degree six.", "乘积一次解释了所有次数。但把原来的指数减 1，六次项就出现了分数。"]
+    ]}
+  ]
+}

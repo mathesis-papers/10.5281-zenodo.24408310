@@ -1,0 +1,136 @@
+{
+  "book": "hanna-a181074-binomial-exponentials",
+  "pending_claims": [],
+  "results": {
+    "a181074-exact": {
+      "claim": "collected:hanna-a181074-binomial-exponentials:3:s6",
+      "gids": [
+        "D5/S1/Recurrence/Algebraic/HannaA181074Integrality.result"
+      ],
+      "comparison_verdict": "same",
+      "compared_public_gid": "D5/S1/Recurrence/Algebraic/HannaA181074Integrality.result",
+      "comparison_commit": "8a24ea4e79de962725aab9d9b49cc605fcc211d8"
+    },
+    "array-criterion": {
+      "claim": "collected:hanna-a181074-binomial-exponentials:3:s4",
+      "gids": [],
+      "comparison_verdict": "variant",
+      "compared_public_gid": "D5/S1/Recurrence/Algebraic/HannaA181070Integrality.integralGeneric",
+      "comparison_commit": "8a24ea4e79de962725aab9d9b49cc605fcc211d8"
+    },
+    "coefficient-lift": {
+      "claim": "collected:hanna-a181074-binomial-exponentials:3:s2",
+      "gids": [],
+      "comparison_verdict": "variant",
+      "compared_public_gid": "D5/S1/Recurrence/Algebraic/HannaA181070Integrality.coeffLift",
+      "comparison_commit": "8a24ea4e79de962725aab9d9b49cc605fcc211d8"
+    },
+    "powered-array": {
+      "claim": "collected:hanna-a181074-binomial-exponentials:3:s3",
+      "gids": [],
+      "comparison_verdict": "special case",
+      "compared_public_gid": "D5/S1/Recurrence/Algebraic/HannaA181070Integrality.variableExponent",
+      "comparison_commit": "8a24ea4e79de962725aab9d9b49cc605fcc211d8"
+    },
+    "general-integrality": {
+      "claim": "collected:hanna-a181074-binomial-exponentials:3:s1",
+      "gids": [],
+      "comparison_verdict": "special case",
+      "compared_public_gid": "D5/S1/Recurrence/Algebraic/HannaA181074Integrality.result",
+      "comparison_commit": "8a24ea4e79de962725aab9d9b49cc605fcc211d8",
+      "formalization_request": {
+        "label": "Theorem 1 — Integral exponential for moving exponents",
+        "url": "https://github.com/the-omega-institute/trureturing-requests/issues/572"
+      }
+    },
+    "reflected-integrality": {
+      "claim": "collected:hanna-a181074-binomial-exponentials:3:s5",
+      "gids": [],
+      "comparison_verdict": "special case",
+      "compared_public_gid": "D5/S1/Recurrence/Algebraic/HannaA181080Integrality.result",
+      "comparison_commit": "8a24ea4e79de962725aab9d9b49cc605fcc211d8",
+      "formalization_request": {
+        "label": "Corollary 5 — Integral exponential for reflected polynomial exponents",
+        "url": "https://github.com/the-omega-institute/trureturing-requests/issues/573"
+      }
+    },
+    "eight-exponentials": {
+      "claim": "collected:hanna-a181074-binomial-exponentials:3:s6",
+      "gids": [],
+      "comparison_verdict": "special case",
+      "compared_public_gid": "D5/S1/Recurrence/Algebraic/HannaA181074Integrality.result",
+      "comparison_commit": "8a24ea4e79de962725aab9d9b49cc605fcc211d8"
+    },
+    "a181070-exact": {
+      "claim": "collected:hanna-a181074-binomial-exponentials:3:s6",
+      "gids": [
+        "D5/S1/Recurrence/Algebraic/HannaA181070Integrality.result"
+      ],
+      "comparison_verdict": "same",
+      "compared_public_gid": "D5/S1/Recurrence/Algebraic/HannaA181070Integrality.result",
+      "comparison_commit": "8a24ea4e79de962725aab9d9b49cc605fcc211d8"
+    },
+    "a181080-exact": {
+      "claim": "collected:hanna-a181074-binomial-exponentials:3:s6",
+      "gids": [
+        "D5/S1/Recurrence/Algebraic/HannaA181080Integrality.result"
+      ],
+      "comparison_verdict": "same",
+      "compared_public_gid": "D5/S1/Recurrence/Algebraic/HannaA181080Integrality.result",
+      "comparison_commit": "8a24ea4e79de962725aab9d9b49cc605fcc211d8"
+    },
+    "eight-logarithms": {
+      "claim": "collected:hanna-a181074-binomial-exponentials:3:s7",
+      "gids": [],
+      "comparison_verdict": "variant",
+      "compared_public_gid": "D5/S1/Recurrence/Algebraic/DoldExponentialIntegrality.integral_exp_of_dold",
+      "comparison_commit": "8a24ea4e79de962725aab9d9b49cc605fcc211d8"
+    },
+    "bivariate-product": {
+      "claim": "collected:hanna-a181074-binomial-exponentials:3:s9",
+      "gids": [],
+      "comparison_verdict": "variant",
+      "compared_public_gid": "D5/S1/Recurrence/Algebraic/HannaA181070Integrality.integralGeneric",
+      "comparison_commit": "8a24ea4e79de962725aab9d9b49cc605fcc211d8",
+      "formalization_request": {
+        "label": "Corollary 9 — Bivariate Euler product for finite-support Gauss arrays",
+        "url": "https://github.com/the-omega-institute/trureturing-requests/issues/574"
+      }
+    },
+    "triangle-slices": {
+      "claim": "collected:hanna-a181074-binomial-exponentials:3:s10",
+      "gids": [],
+      "comparison_verdict": "special case",
+      "compared_public_gid": "D5/S1/Recurrence/Algebraic/HannaA181070Integrality.result",
+      "comparison_commit": "8a24ea4e79de962725aab9d9b49cc605fcc211d8"
+    },
+    "lowered-triangles": {
+      "claim": "collected:hanna-a181074-binomial-exponentials:3:s11",
+      "gids": [],
+      "comparison_verdict": "none",
+      "compared_public_gid": null,
+      "comparison_commit": "8a24ea4e79de962725aab9d9b49cc605fcc211d8"
+    },
+    "companion-limit": {
+      "claim": "collected:hanna-a181074-binomial-exponentials:3:s8",
+      "gids": [],
+      "comparison_verdict": "none",
+      "compared_public_gid": null,
+      "comparison_commit": "8a24ea4e79de962725aab9d9b49cc605fcc211d8"
+    },
+    "array-maxima": {
+      "claim": "collected:hanna-a181074-binomial-exponentials:3:s12",
+      "gids": [],
+      "comparison_verdict": "variant",
+      "compared_public_gid": "D5/S1/Recurrence/Algebraic/HannaA181070Integrality.variableExponent",
+      "comparison_commit": "8a24ea4e79de962725aab9d9b49cc605fcc211d8"
+    }
+  },
+  "stage": "complete",
+  "titles": {
+    "en": "Proving Hanna's conjecture in OEIS A181074, Comments (2 October 2010): extensions of Moree (2003) and Gossow (2024)",
+    "zh": "Proving Hanna's conjecture in OEIS A181074, Comments (2 October 2010): extensions of Moree (2003) and Gossow (2024)"
+  },
+  "version": 3,
+  "work": "hanna-a181074-binomial-exponentials"
+}
